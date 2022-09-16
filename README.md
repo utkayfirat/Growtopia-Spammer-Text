@@ -1,4 +1,4 @@
-# Growtopia-Spammer-Text<br>(EDUCATIONAL PURPOSES)
+# Growtopia Spam Bot<br>(EDUCATIONAL PURPOSES)
  Growtopia Text Spammer for you! (No block problem)<br>
  US Keyboard setting is required.<br>
  <img src="https://github.com/utkayfirat/Growtopia-Spammer-Text/blob/f909c434a9ef69f746ace6f2875c6b79ba40c97d/app.jpg"><br><br>
